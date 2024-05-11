@@ -5,7 +5,7 @@ function Hero() {
   return (
     <div className="bg-hero bg-cover bg-center h-screen w-full flex flex-start items-center px-8 md:px-20 lg:px-32">
       <div className="text-black w-[100%] md:w-1/2 text-center md:text-center flex flex-col items-center justify-center w-1/2 mr-32 z-20">
-        <h1 className="text-4xl md:text-6xl lg:text-7xl font-semibold ml-1 font-raleway leading-tight w-[0%]">
+        <h1 className="text-2xl md:text-6xl lg:text-7xl font-semibold ml-1 font-raleway leading-tight w-[70%]">
           We are at the forefront of AI
         </h1>
         <p className="w-[65%]  text-lg md:text-xl lg:text-2xl mt-6 mb-6 md:mt-8 lg:mt-10 hidden md:inline-block lg:inline-block">

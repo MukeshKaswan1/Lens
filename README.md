@@ -9,7 +9,9 @@ cd https://github.com/MukeshKaswan1/Lens.git
 
 Second, Install the dependencies: 
 
-npm i 
+```bash
+npm i
+```
 
 Finally, run the development server:
 

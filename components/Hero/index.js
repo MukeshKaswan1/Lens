@@ -8,7 +8,7 @@ function Hero() {
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-semibold ml-1 font-raleway leading-tight w-[80%]">
           We are at the forefront of AI
         </h1>
-        <p className="w-[65%] text-lg md:text-xl lg:text-2xl mt-6 mb-6 md:mt-8 lg:mt-10 lg:hidden md:block">
+        <p className="w-[65%]  text-lg md:text-xl lg:text-2xl mt-6 mb-6 md:mt-8 lg:mt-10  hidden md:inline-block lg:inline-block">
           From Conserving Wildlife to Automatically Generating Caricatures-{" "}
           <b>We Do It All</b>
         </p>

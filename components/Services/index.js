@@ -35,11 +35,11 @@ function Services() {
       <div className="text-[58px] md:text-4xl w-[70%] text-center my-16 font-[400]">
         We provide Artificial Intelligence Services
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 w-full">
+      <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4 w-[60%] h-[60%]">
         {cardContent.map((card) => {
           return (
             <div
-              className={`min-h-[345px] bg-[#1b1c1e] rounded-lg px-12 py-4 font-poppins group hover:bg-transparent hover:border-2 hover:border-${card.color}`}
+              className={`min-h-[345px] bg-[#1b1c1e] rounded-xl px-12 py-4 font-poppins group hover:bg-transparent hover:border-2 hover:border-${card.color}`}
               key={card.title}
             >
               <div className="flex items-center">

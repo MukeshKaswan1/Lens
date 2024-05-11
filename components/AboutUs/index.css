@@ -1,0 +1,53 @@
+/* Base styles */
+.h-screen {
+    min-height: 100vh;
+  }
+  
+  /* Responsive styles for devices with width up to 980px */
+  @media (max-width: 980px) {
+    .px-32 {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    .py-20 {
+      padding-top: 15px;
+      padding-bottom: 15px;
+    }
+    .text-6xl {
+      font-size: 4rem;
+    }
+    .w-40 {
+      width: 30px;
+    }
+    .p-12 {
+      padding: 8px;
+    }
+    .text-5xl {
+      font-size: 3rem;
+    }
+  }
+  
+  /* Responsive styles for devices with width up to 640px */
+  @media (max-width: 640px) {
+    .px-32 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .py-20 {
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    .text-6xl {
+      font-size: 3rem;
+    }
+    .w-40 {
+      width: 20px;
+    }
+    .p-12 {
+      padding: 6px;
+    }
+    .text-5xl {
+      font-size: 2rem;
+    }
+  }
+  

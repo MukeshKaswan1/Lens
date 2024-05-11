@@ -5,7 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, clone the repo: 
 
-cd https://github.com/MukeshKaswan1/Lens.git 
+```bash
+git clone https://github.com/MukeshKaswan1/Lens.git 
+```
 
 Second, Install the dependencies: 
 
